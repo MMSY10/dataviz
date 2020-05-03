@@ -1,0 +1,188 @@
+Continent_Region;Country;Code_ISO2
+Asia;Afghanistan;AF
+Europa;Albania;AL
+Africa;Algeria;DZ
+Europa;Andorra;AD
+Africa;Angola;AO
+C. America;Antigua and Barbuda;AG
+S. America;Argentina;AR
+Europa;Armenia;AM
+Oceania;Australia;AU
+Europa;Austria;AT
+Asia;Azerbaijan;AZ
+C. America;Bahamas;BS
+Asia;Bahrain;BH
+Asia;Bangladesh;BD
+C. America;Barbados;BB
+Europa;Belarus;BY
+Europa;Belgium;BE
+C. America;Belize;BZ
+Africa;Benin;BJ
+Asia;Bhutan;BT
+S. America;Bolivia;BO
+Europa;Bosnia and Herzegovina;BA
+Africa;Botswana;BW
+S. America;Brazil;BR
+Asia;Brunei;BN
+Europa;Bulgaria;BG
+Africa;Burkina Faso;BF
+C. America;Burma;BU
+Africa;Burundi;BI
+Africa;Cabo Verde;CV
+Asia;Cambodia;KH
+Africa;Cameroon;CM
+N. America;Canada;CA
+Africa;Central African Republic;CF
+Africa;Chad;TD
+S. America;Chile;CL
+Asia;China;CN
+S. America;Colombia;CO
+Africa;Comoros;KM
+Africa;Congo (Brazzaville);CG
+Africa;Congo (Kinshasa);CD
+S. America;Costa Rica;CR
+Africa;Cote d'Ivoire;CI
+Europa;Croatia;HR
+C. America;Cuba;CU
+Europa;Cyprus;CY
+Europa;Czechia;CZ
+Europa;Denmark;DK
+-;Diamond Princess;-
+Africa;Djibouti;DJ
+C. America;Dominica;DM
+C. America;Dominican Republic;DO
+S. America;Ecuador;EC
+Africa;Egypt;EG
+C. America;El Salvador;SV
+Africa;Equatorial Guinea;GQ
+Africa;Eritrea;ER
+Europa;Estonia;EE
+Africa;Eswatini;SZ
+Africa;Ethiopia;ET
+Oceania;Fiji;FJ
+Europa;Finland;FI
+Europa;France;FR
+Africa;Gabon;GA
+Africa;Gambia;GM
+Europa;Georgia;GE
+Europa;Germany;DE
+Africa;Ghana;GH
+Europa;Greece;GR
+C. America;Grenada;GD
+C. America;Guatemala;GT
+Africa;Guinea;GN
+Africa;Guinea-Bissau;GW
+S. America;Guyana;GY
+C. America;Haiti;HT
+Europa;Holy See;VA
+C. America;Honduras;HN
+Europa;Hungary;HU
+Europa;Iceland;IS
+Asia;India;IN
+Asia;Indonesia;ID
+Asia;Iran;IR
+Asia;Iraq;IQ
+Europa;Ireland;IE
+Asia;Israel;IL
+Europa;Italy;IT
+C. America;Jamaica;JM
+Asia;Japan;JP
+Asia;Jordan;JO
+Asia;Kazakhstan;KZ
+Africa;Kenya;KE
+Asia;Korea, South;KR
+Europa;Kosovo;XK
+Asia;Kuwait;KW
+Asia;Kyrgyzstan;KG
+Asia;Laos;LA
+Europa;Latvia;LV
+Asia;Lebanon;LB
+Africa;Liberia;LR
+Africa;Libya;LY
+Europa;Liechtenstein;LI
+Europa;Lithuania;LT
+Europa;Luxembourg;LU
+Africa;Madagascar;MG
+Africa;Malawi;MW
+Asia;Malaysia;MY
+Asia;Maldives;MV
+Africa;Mali;ML
+Europa;Malta;MT
+Africa;Mauritania;MR
+Africa;Mauritius;MU
+N. America;Mexico;MX
+Europa;Moldova;MD
+Europa;Monaco;MC
+Asia;Mongolia;MN
+Europa;Montenegro;ME
+Africa;Morocco;MA
+Africa;Mozambique;MZ
+-;MS Zaandam;-
+Africa;Namibia;NAM
+Asia;Nepal;NP
+Europa;Netherlands;NL
+Oceania;New Zealand;NZ
+C. America;Nicaragua;NI
+Africa;Niger;NE
+Africa;Nigeria;NG
+Europa;North Macedonia;MK
+Europa;Norway;NO
+Asia;Oman;OM
+Asia;Pakistan;PK
+C. America;Panama;PA
+Oceania;Papua New Guinea;PG
+S. America;Paraguay;PY
+S. America;Peru;PE
+Asia;Philippines;PH
+Europa;Poland;PL
+Europa;Portugal;PT
+Asia;Qatar;QA
+Europa;Romania;RO
+Europa;Russia;RU
+Africa;Rwanda;RW
+C. America;Saint Kitts and Nevis;KN
+C. America;Saint Lucia;LC
+C. America;Saint Vincent and the Grenadines;VC
+Europa;San Marino;SM
+Africa;Sao Tome and Principe;ST
+Asia;Saudi Arabia;SA
+Africa;Senegal;SN
+Europa;Serbia;RS
+Africa;Seychelles;SC
+Africa;Sierra Leone;SL
+Asia;Singapore;SG
+Europa;Slovakia;SK
+Europa;Slovenia;SI
+Africa;Somalia;SO
+Africa;South Africa;ZA
+Africa;South Sudan;SS
+Europa;Spain;ES
+Asia;Sri Lanka;LK
+Africa;Sudan;SD
+S. America;Suriname;SR
+Europa;Sweden;SE
+Europa;Switzerland;CH
+Asia;Syria;SY
+Asia;Taiwan*;TW
+Asia;Tajikistan;TJ
+Africa;Tanzania;TZ
+Asia;Thailand;TH
+Asia;Timor-Leste;TL
+Africa;Togo;TG
+S. America;Trinidad and Tobago;TT
+Africa;Tunisia;TN
+Europa;Turkey;TR
+Africa;Uganda;UG
+Europa;Ukraine;UA
+Asia;United Arab Emirates;AE
+Europa;United Kingdom;GB
+S. America;Uruguay;UY
+N. America;US;US
+Asia;Uzbekistan;UZ
+S. America;Venezuela;VE
+Asia;Vietnam;VN
+Asia;West Bank and Gaza;PS
+Africa;Western Sahara;EH
+Asia;Yemen;YE
+Africa;Zambia;ZM
+Africa;Zimbabwe;ZW
