@@ -38,7 +38,7 @@ up-to-date data drawn from <datahub.io>. These data are available using the foll
 - Upload the files in your disk
 - Open the covid19_dashboard project by double clicking on the "covid19_dahsboard.Rproj" file
 - Execute the R script entitled "data_preprocessing.R" which aims to prepare the necessary data and files to create the dashboard.
-- Open the "covid_19_dashboard.rmd" file and hit the run button to produce the dashboard.
+- Open the "covid19_dashboard.rmd" file and hit the run button to produce the dashboard.
 
 ### The resulting dashboard is constituted of three main pages :
 
